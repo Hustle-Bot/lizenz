@@ -1,0 +1,6 @@
+# Sperrliste fuer den Hustle Castle Bot
+# Hier stehen nur Kennungen, nie ganze Schluessel.
+
+gesperrt: 
+mindestversion: 1.1-beta
+neuesteversion: 1.1-beta
