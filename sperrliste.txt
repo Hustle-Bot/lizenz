@@ -1,6 +1,6 @@
 # Sperrliste fuer den Hustle Castle Bot
 # Hier stehen nur Kennungen, nie ganze Schluessel.
 
-gesperrt: 232B, 26D5, 0667, F900, 4071, B914, 3101
+gesperrt: 232B, 26D5, 0667, F900, B914, 3101
 mindestversion: 1.1-beta
 neuesteversion: 1.1-beta
